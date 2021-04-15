@@ -47,6 +47,6 @@ How are we going to create a successful citi bikesharing program in Iowa.
 3: We will offer discounts and promotions during non-commuter hours to maxmize sales throughout ALL hours of the day.
 
 
-
+Link to dashboard: https://public.tableau.com/profile/yazan.khayata#!/vizhome/NYCitiBikesChallenge/Story1?publish=yes
 
 
